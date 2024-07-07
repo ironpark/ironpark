@@ -1,17 +1,13 @@
-### Hi there 👋
-![Ironpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ironpark&show_icons=true&theme=radical)
+<img src="https://myreadme.vercel.app/api/embed/ironpark?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<!--
-**Ironpark/ironpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+<p>
+<img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ironpark&repo=zapp" alt="Rick Staa's Language stats" />
+<img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ironpark&repo=ivent" alt="Rick Staa's Language stats" />
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+- Cross-Platform Application
+- Backend, Cloud Stuff
+- Go, Rust, Zig
