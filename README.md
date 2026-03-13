@@ -1,5 +1,3 @@
-<img src="https://myreadme.vercel.app/api/embed/ironpark?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 ## Projects
 
 <p>
@@ -8,6 +6,9 @@
   </a>
   <a href="https://github.com/ironpark/zapp">
     <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ironpark&repo=zapp" />
+  </a>
+  <a href="https://github.com/ironpark/accelerate">
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ironpark&repo=accelerate" />
   </a>
 </p> 
 
