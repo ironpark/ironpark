@@ -1,18 +1,18 @@
 ## Projects
 
-<p>
-  <a href="https://github.com/ironpark/ivent">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ironpark&repo=ivent" />
-  </a>
-  <a href="https://github.com/ironpark/zapp">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ironpark&repo=zapp" />
-  </a>
-  <a href="https://github.com/ironpark/accelerate">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ironpark&repo=accelerate" />
-  </a>
-</p> 
+## Tools
+https://github.com/ironpark/zapp
+https://github.com/ironpark/macc
+https://github.com/ironpark/runby
+
+## Pkgs
+- https://github.com/ironpark/qngg
+- https://github.com/ironpark/acp-go
+- https://github.com/ironpark/ggui
+- https://github.com/ironpark/ggfx
+- https://github.com/ironpark/zigo 
 
 ## Current Interests
 - Cross-Platform Application
 - Backend, Cloud Stuff
-- Go, Rust, Zig
+- Go, Zig, Rust
