@@ -1,9 +1,9 @@
 ## Projects
 
 ## Tools
-https://github.com/ironpark/zapp
-https://github.com/ironpark/macc
-https://github.com/ironpark/runby
+- https://github.com/ironpark/zapp
+- https://github.com/ironpark/macc
+- https://github.com/ironpark/runby
 
 ## Pkgs
 - https://github.com/ironpark/qngg
